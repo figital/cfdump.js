@@ -1,1 +1,12 @@
-cfdump.js README
+I use cfdump.js to dump my Javascript objects to the browser ....
+
+Usage:
+
+	var cfdump = require("cfdump");
+	foo = cfdump.dump(whatever);
+	..
+	..
+	response.write(foo);
+
+
+That's about it.
