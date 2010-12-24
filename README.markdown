@@ -1,3 +1,5 @@
+#cfdump.js
+
 I use cfdump.js to dump my Javascript objects to the browser when using node.js ....
 
 Usage:
@@ -10,3 +12,5 @@ Usage:
 
 
 That's about it.
+
+Screenshot here would be nice. ;)
