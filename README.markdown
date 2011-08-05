@@ -2,6 +2,8 @@
 
 I use cfdump.js to dump my Javascript objects to the browser when using node.js ....
 
+![Screenshot](http://farm7.static.flickr.com/6132/6010277380_b92499be70.jpg "Screenshot")
+
 Usage:
 
 https://gist.github.com/1126635
@@ -43,8 +45,4 @@ https://gist.github.com/1126635
 
 That's about it.
 
-Screenshot:
-
-![Screenshot](http://farm7.static.flickr.com/6132/6010277380_b92499be70.jpg "Screenshot")
-
-NOTE: actual function borks on plenty of objects. this is just a quick wrapper.
+NOTE: Actual function borks on plenty of objects. This is just a quick wrapper. The client-side CSS, etc is probably from 2003.
