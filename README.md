@@ -10,7 +10,7 @@ Usage:
 
 https://gist.github.com/1126635
 
-javascript```
+```javascript
 
 // cfdump.js demo 
 
