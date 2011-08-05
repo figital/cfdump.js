@@ -6,6 +6,8 @@ I use cfdump.js to dump my Javascript objects to the browser when using node.js 
 
 Usage:
 
+<script src="https://gist.github.com/1126635.js?file=cfdump-demo.js"></script>
+
 https://gist.github.com/1126635
 
 	// cfdump.js demo 
