@@ -10,7 +10,8 @@ Usage:
 
 https://gist.github.com/1126635
 
-```// cfdump.js demo 
+javascript```
+// cfdump.js demo 
 
 var http = require('http');
 var dump = require('cfdump').dump;
