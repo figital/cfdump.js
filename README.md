@@ -10,8 +10,7 @@ Usage:
 
 https://gist.github.com/1126635
 
-```
-// cfdump.js demo 
+```// cfdump.js demo 
 
 var http = require('http');
 var dump = require('cfdump').dump;
@@ -43,8 +42,7 @@ function listener(request, response) {
 
 http.createServer(listener).listen(port, host);
 
-console.log('Server running at http://' + host + ':' + port);
-```
+console.log('Server running at http://' + host + ':' + port);```
 
 That's about it.
 
