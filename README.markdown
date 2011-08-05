@@ -12,7 +12,6 @@ https://gist.github.com/1126635
 	var dump = require('cfdump').dump;
 	var port = 1337;
 	var host = "localhost";
-	var defaultMimeType = "text/html";
 	
 	function listener(request, response) {
 		
@@ -29,7 +28,7 @@ https://gist.github.com/1126635
 		body += 'Dump test object:';
 		body += dump(test);
 		
-		response.writeHead(200, {'Content-Type': defaultMimeType});
+		response.writeHead(200, {'Content-Type': 'text/html'});
 		
 		response.end(body);
 		
